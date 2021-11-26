@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miriampc
+## 👋 Hi, I’m @miriampc 👩🏻‍💻
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Adobe Experience Manager
 - 💞️ I’m looking to collaborate on machine learnig
